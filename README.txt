@@ -1,1 +1,18 @@
-django-utils by John Mark Schofield
+============
+django-utils
+============
+
+by John Mark Schofield (jms@schof.org)
+
+Provides common utility functions for Django projects.
+
+
+Currently provides django-utils.djangoenvironment.get_env_variable().
+
+Loads an environment variable into the current context, or raises an exception.
+
+
+Thanks
+------
+
+get_env_variable was taken from the book "Two Scoops of Django," by Daniel Greenfield and Audrey Roy. [https://django.2scoops.org/]
