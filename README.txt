@@ -1,5 +1,5 @@
 ============
-django-fu
+djangofu
 ============
 
 by John Mark Schofield (jms@schof.org)
