@@ -2,4 +2,4 @@
 README.txt
 setup.py
 djangofu/__init__.py
-djangofu/djangoenvironment.py
+djangofu/general.py
