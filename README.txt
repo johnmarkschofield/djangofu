@@ -1,13 +1,16 @@
 ============
-django-utils
+django-fu
 ============
 
 by John Mark Schofield (jms@schof.org)
 
 Provides common utility functions for Django projects.
 
+(It's django-fu as in Kung Fu, not as in F-U.)
 
-Currently provides django-utils.djangoenvironment.get_env_variable().
+
+
+Currently provides django-fu.djangoenvironment.get_env_variable().
 
 Loads an environment variable into the current context, or raises an exception.
 

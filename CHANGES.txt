@@ -1,1 +1,2 @@
+v0.0.3, 2013-04-30 -- Rename to django-fu complete.
 v0.0.2, 2013-04-30 -- Initial release.
